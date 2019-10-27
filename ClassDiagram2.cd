@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InventroyManager" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABQIEAEACQAICSAAADggSCBgBRFAISAEAMAAAAJgEA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Manager\InventroyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itemObjectpoolManager" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEEAAQAAUIBAAAIggEAAAAIABFRAAiYAACAMBQQBAEg=</HashCode>
+      <FileName>Assets\Scripts\Shop\Manager\itemObjectpoolManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemToolTipManager" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QIAE4DABA6EAABCWAC5gBAAiRQFgIoHJYCUoZgAggOA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Manager\ItemToolTipManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerSlotManager" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAAAAACCACAAAAAAAAAAAAAAEAAgAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Manager\PlayerSlotManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionButtonManager" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAICgAAAQTAAAAAAIygAAAIAEIBAAAAAACQAAABAAGA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Manager\SelectionButtonManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="itemObjectpoolManager" />
+      <Property Name="InventroyManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CompositeChildslot" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAEAKEIAAAWACAgAAAAAQEQwAHBIAEIQgAhgYA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Slot\CompositeChildslot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompositeSlot" Collapsed="true">
+    <Position X="5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAIAAAAAAAAAAAAABAQQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Slot\CompositeSlot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="playerSlot" Collapsed="true">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAIAAAAAQQAAAAAAAAQAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Slot\playerSlot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Slot" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAgAIAAAAAAAAAAAAABAwQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Slot\Slot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="attackItems" Collapsed="true">
+    <Position X="8" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhEJBAAICAACAAQBAAggAAAgAAAAAIAAAAEAAABEAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\attackItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itemLeaf" Collapsed="true">
+    <Position X="21.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAQAAAAAAAAQAAAAEAEiAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\itemLeaf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="items" Collapsed="true">
+    <Position X="13.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAgCgBAIQAAADAAAQpBAIAAIAQAEAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jungleItems" Collapsed="true">
+    <Position X="10.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\jungleItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="midItems" Collapsed="true">
+    <Position X="14.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\midItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="runspeedItems" Collapsed="true">
+    <Position X="19.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAIAAAAAAACAAQAAAggAACgAAAAAIAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\runspeedItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="supItems" Collapsed="true">
+    <Position X="12.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\supItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="topItems" Collapsed="true">
+    <Position X="17" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\topItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetGold" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAABAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\GetGold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="selectBtn" Collapsed="true">
+    <Position X="24.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\selectBtn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

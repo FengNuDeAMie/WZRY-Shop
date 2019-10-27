@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NormalSlider
+  - RedTower
+  - Ground
+  - Tower1
+  - sj02
+  - sj01
+  - Monster
+  - Enemy
+  - blue
+  - violet
+  - cube
+  - NormalText
+  - Tower2
+  - EasyTouch
+  - MiniMapCamera
+  - MapManager
+  - XiaoBing
+  - ShopUI
+  - selectbtn
+  - chujiPanle
+  - zhongjiPanle
+  - gaojiPanle
+  - item
+  - slot
+  - itemTool
+  - PlayerSlot
+  - OpenShop
+  - CloseButton
+  - Compositeslot
+  - CompositeChildslot
+  - Verticalline
+  - longHorizontalLine
+  - shortHorizontalLine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Scene
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

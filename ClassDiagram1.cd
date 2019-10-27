@@ -1,0 +1,673 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MultiLayerTouch" Collapsed="true">
+    <Position X="28.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAABAAAAIAAgAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\AdvancedExamples\AutoSelect\MultiLayerTouch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiLayerUI" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\AdvancedExamples\AutoSelect\MultiLayerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiCameraTouch" Collapsed="true">
+    <Position X="25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAABAAAAIAAgAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\AdvancedExamples\MultiCamera\MultiCameraTouch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiCameraUI" Collapsed="true">
+    <Position X="26.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAYAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\AdvancedExamples\MultiCamera\MultiCameraUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CubeSelect" Collapsed="true">
+    <Position X="25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEBAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\GameExemple\RTSExample\CubeSelect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTSCamera" Collapsed="true">
+    <Position X="28.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAIAAAAAAAAQAAAAAAAIAAAAAAAAAAAAEAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\GameExemple\RTSExample\RTSCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\GameExemple\RunBall\Ball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallRunPlayer" Collapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUBAAAAACAAABAgAAAAAACgAAAAACAAIQAAAAIACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\GameExemple\RunBall\BallRunPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThirdPersonCamera" Collapsed="true">
+    <Position X="25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAECAAACAAACQAAAAAIAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\GameExemple\RunBall\ThirdPersonCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadExamples" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\LoadExamples.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FingerTouch" Collapsed="true">
+    <Position X="25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAgAAAAAAQAAAQAICAAAAAAAAAAAABAAAAOAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\MultiFinger\FingerTouch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MutliFingersScreenTouch" Collapsed="true">
+    <Position X="16.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAAAAAAAAAABAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\MultiFinger\MutliFingersScreenTouch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoubleTapMe" Collapsed="true">
+    <Position X="26.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAACAAAAAAAAAAAAAIAAAAACAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\OneFinger\DoubleTapMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DragMe" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAgAAACAAAAAASCACAAEAAAAAAAAKAAAAAEAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\OneFinger\DragMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LongTapMe" Collapsed="true">
+    <Position X="21.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJgAAAACAgAAAAACACAAAAAAAEAAAIAAAAAEAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\OneFinger\LongTapMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Swipe" Collapsed="true">
+    <Position X="21.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEBAAAAAAAAAAAAACAAAAAAAAAAAAQIAAAAAEAACIA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\OneFinger\Swipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TapMe" Collapsed="true">
+    <Position X="23.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAAAAAAACAAAAAAAAAAAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\OneFinger\TapMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TouchMe" Collapsed="true">
+    <Position X="14.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAAACAAAAAAACICAgAAAAAAAAAIBAAAAEAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\OneFinger\TouchMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PinchMe" Collapsed="true">
+    <Position X="21.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAACAAAAAgACACAAAAAAAFAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\TwoFingers\PinchMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TooglePickMethodUI" Collapsed="true">
+    <Position X="28.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\TwoFingers\TooglePickMethodUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwistMe" Collapsed="true">
+    <Position X="18" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAACAAAAAAACACAAAAIAABAAAIAAAAAAAACIA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\TwoFingers\TwistMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwoDoubleTapMe" Collapsed="true">
+    <Position X="19.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAACAAAAAAACAAAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\TwoFingers\TwoDoubleTapMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwoDragMe" Collapsed="true">
+    <Position X="21.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAApAgAAACEAAAAAACACCQAAAAAAAAAIAAAAAEAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\TwoFingers\TwoDragMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwoLongTapMe" Collapsed="true">
+    <Position X="23.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACApAAEAACAAAAAAACACAAAACAAAAAAIAAAAAEAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\TwoFingers\TwoLongTapMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwoSwipe" Collapsed="true">
+    <Position X="25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAQAAAAACQAAAAgAAAAAAAIAAAAAAAECIA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\TwoFingers\TwoSwipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwoTapMe" Collapsed="true">
+    <Position X="26.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAAAAAAAAAAACAAAAAAAAAAAAAYAAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\TwoFingers\TwoTapMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwoTouchMe" Collapsed="true">
+    <Position X="28.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIpAAAAACAAAAAAACACAAAAAAABAAAIAAAgAEAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\SimpleExamples\TwoFingers\TwoTouchMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETWindow" Collapsed="true">
+    <Position X="23.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAACAAAAAgAAAAAAAAAABAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\UnityUI\UICompatibility\ETWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlobalEasyTouchEvent" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAgAAAAAAAAAIAAgAAAQAAgAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\UnityUI\UICompatibility\GlobalEasyTouchEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICompatibility" Collapsed="true">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\UnityUI\UICompatibility\UICompatibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\UnityUI\UICompatibility\UIWindow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UIDrag" Collapsed="true">
+    <Position X="16.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAAAAAAAAQAACAAIAAgAAAAABAAAABAAgAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\UnityUI\UITwistPinch\UIDrag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIPinch" Collapsed="true">
+    <Position X="18" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\UnityUI\UITwistPinch\UIPinch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UITwist" Collapsed="true">
+    <Position X="19.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\4.X\UnityUI\UITwistPinch\UITwist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTS_NewSyntaxe" Collapsed="true">
+    <Position X="26.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\5.X new features\Script\RTS_NewSyntaxe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleActionExample" Collapsed="true">
+    <Position X="18" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAACkAAAAACAAAAEAAIAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouch\Examples\5.X new features\Script\SimpleActionExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETCSetDirectActionTransform" Collapsed="true">
+    <Position X="21.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Component\ETCSetDirectActionTransform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SliderText" Collapsed="true">
+    <Position X="19.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\_Medias\SliderText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonInputUI" Collapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAgAQAAAAAAAiAAQAAAAAAgIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 1.X\Button-Event-Input\ButtonInputUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonUIEvent" Collapsed="true">
+    <Position X="25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAgAAAAAACAAAEAAAAAAAAQAAAAAACAEI=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 1.X\Button-Event-Input\ButtonUIEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlUIEvent" Collapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAgIIEApAAAFAAAAACAACQEAAIAAAAaACAOEBHIEI=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 1.X\ControlEventInput\ControlUIEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlUIInput" Collapsed="true">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAUAgAAAAAAAAADAADAAAAAAAAAAAAACEECIEA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 1.X\ControlEventInput\ControlUIInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPadParameterUI" Collapsed="true">
+    <Position X="28.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAIAAAAAACAAAAAAAAAAAQAgAQAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 1.X\DPadClassicalTime\DPadParameterUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FPSPlayerControl" Collapsed="true">
+    <Position X="26.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAEAAAAAEAAAEAAIAQIAAAAAIMQAACYACAAAIAEA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 1.X\FPSExample\FPSPlayerControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImpactEffect" Collapsed="true">
+    <Position X="19.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 1.X\FPSExample\ImpactEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AxisXUi" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAGAAAIABAAAAAAAAAAAYAAAAAACAAQA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 1.X\JoystickParameter\AxisXUi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadLevelScript" Collapsed="true">
+    <Position X="18" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAAgAAAgAAAAAADAAAAQAAABAAAQAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 1.X\LoadLevelScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TouchPadUIEvent" Collapsed="true">
+    <Position X="16.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABACAAAgAAAACAAAAEAAAAAAAAAAAEEAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 1.X\TouchPad-Event-Input\TouchPadUIEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAnimation" Collapsed="true">
+    <Position X="28.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 2.X_New Features\Script\CharacterAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAnimationDungeon" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Examples\Version 2.X_New Features\Script\CharacterAnimationDungeon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComponentExtensions" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Plugins\ComponentExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETCArea" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAEA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Plugins\ETCArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETCAxis" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQFiAMwAAAhQDAYIWSAAgRBBYAAEJQMTqQEgKHBBBAA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Plugins\ETCAxis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETCBase" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AU8BAUA7AiEKBBAwUoMIYEOAChoBwAAJSCDUCIAwCEA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Plugins\ETCBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETCButton" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAKCAEAgIEAAQAAAAAwAAJAQCQEAUBgAEA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Plugins\ETCButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ETCDPad" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACBAYAAACBKCAAAgABQAUAAIIAQAAQIQyQFAABkABA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Plugins\ETCDPad.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ETCInput" Collapsed="true">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8LGkOSAICQoIBSiCghMACESIUgprROkGFCIggiAAXI0=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Plugins\ETCInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ETCJoystick" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBShAZICACBLAAAoCABQJICEMIAQgDQASzCFAQhFotQ=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Plugins\ETCJoystick.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ETCTouchPad" Collapsed="true">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YACBAYCAACBKAAAAAABQAAAAICAwACQAQyAFAQBmCFA=</HashCode>
+      <FileName>Assets\EasyTouchBundle\EasyTouchControls\Plugins\ETCTouchPad.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="JSONObject" Collapsed="true">
+    <Position X="28.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iBIwAggMyIQI4AAMCACAACWIgggBQWgaMYQAAABEUBA=</HashCode>
+      <FileName>Assets\JSON\JSONObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONTemplates" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAACAEAAAABAEAQAAEAEECAMAAAABBAAAAIAAAg=</HashCode>
+      <FileName>Assets\JSON\VectorTemplates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AiNavigationController" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AiNavigationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraController" Collapsed="true">
+    <Position X="26.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAEAAAAiEAAAAgAAAAIAAAAgBAAAAAAgAAAAAAAUA=</HashCode>
+      <FileName>Assets\Scripts\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreatAi" Collapsed="true">
+    <Position X="21.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CreatAi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FullScreen" Collapsed="true">
+    <Position X="28.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\FullScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IconPosition" Collapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEIAAAAiAAAAAAAAAAQAACAAECAQCAAAAAAABAAEQ=</HashCode>
+      <FileName>Assets\Scripts\IconPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodingScene" Collapsed="true">
+    <Position X="19.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgACgAAAAAAAAACAAAAIAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LodingScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapResponse" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAIAAAiAIAQAAAAAAQAAAAAECAQCAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\MapResponse.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="NewBehaviourScript" Collapsed="true">
+    <Position X="18" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAIAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\NewBehaviourScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewBehaviourScript1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\NewBehaviourScript1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Playerattribute" Collapsed="true">
+    <Position X="23.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAABAAAQAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Playerattribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController" Collapsed="true">
+    <Position X="25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAYAAAAAAiEAAAAAAAAAAEgAAgBAGACAAgABAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetGold" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAABAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\GetGold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="attackItems" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhEJBAAICAACAAQBAAggAAAgAAAAAIAAAAEAAABEAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\attackItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itemLeaf" Collapsed="true">
+    <Position X="23.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAQAAAAAAAAQAAAAEAEiAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\itemLeaf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="items" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAgCgBAIQAAADAAAQpBAIAAIAQAEAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jungleItems" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\jungleItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="midItems" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\midItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="runspeedItems" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAIAAAAAAACAAQAAAggAACgAAAAAIAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\runspeedItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="supItems" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\supItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="topItems" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\item\topItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="btngoodselectManager" Collapsed="true">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCgAAAQTAAAAAAIQgAAAIAEABAAAAAACAAAAAAAGA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Manager\btngoodselectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventroyManager" Collapsed="true">
+    <Position X="21.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABQIEAEACQAICSAAADggSCBgBQFAISAUAMAAAAJgEA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Manager\InventroyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itemObjectpoolManager" Collapsed="true">
+    <Position X="25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAQAAUIBAAAIggEAAAAIABFRAAiYAACAMBQQBAEg=</HashCode>
+      <FileName>Assets\Scripts\Shop\Manager\itemObjectpoolManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="itemToolManager" Collapsed="true">
+    <Position X="26.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAE4BABA6EAABCWAC5gBAAiRQEgIoHJYCUoZgAggOA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Manager\itemToolManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="selectBtn" Collapsed="true">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\selectBtn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeChildslot" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAEAKEIAAAWACAgAAAAAQEQwAHBIAEIQgAhgcA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Slot\CompositeChildslot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompositeSlot" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAEACAIAAAAAAAAAAAAABAQQAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Slot\CompositeSlot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CreatPlayerSlot" Collapsed="true">
+    <Position X="23.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAACAAAAAACCACAAAAAAAAAAAAAAEAAgAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Slot\CreatPlayerSlot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playerSlot" Collapsed="true">
+    <Position X="5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAIAAAAAQQAAAAAAAAQAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Slot\playerSlot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Slot">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Slot.itemOwn" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Shop\Slot\Slot.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAiAIAAAAAAAAAAAAABBwQAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Shop\Slot\Slot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShowFps" Collapsed="true">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAgCEAAAAAAAAAAAAAAAAAAAAIAEIAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ShowFps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timing" Collapsed="true">
+    <Position X="26.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAApAAAAAAAABAAAAAAAAgAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Timing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
